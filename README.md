@@ -1,5 +1,5 @@
 # TEST-OK package manager
-TEST-OK package manager,
+TEST-OK package manager, automatically keep track and import functions for TEST-OK. 
 
 <!-- TOC -->
 ## Navigation
