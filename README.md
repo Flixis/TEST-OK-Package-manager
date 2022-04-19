@@ -3,7 +3,7 @@ TEST-OK package manager,
 
 <!-- TOC -->
 ## Navigation
-- [Navigation](#TEST-OK package manager)
+- [Navigation](#Navigation)
     - [Requirements](#Requirements)
     - [Todo Lists](#Todo)
     - [Footnotes](#Footnotes)
@@ -12,10 +12,10 @@ TEST-OK package manager,
 ## Requirements
 ### Prerequisites - Code
 - Python 3
-    - 
-    - 
-    - 
-    - 
+    - Unknown
+    - Unknown
+    - Unknown
+    - Unknown
 
 ## Todo
 ### Overiew
