@@ -1,2 +1,50 @@
-# TEST-OK-Package-manager
-TEST-OK Package manager
+# TEST-OK package manager
+TEST-OK package manager,
+
+<!-- TOC -->
+## Navigation
+- [Navigation](#TEST-OK package manager)
+    - [Requirements](#Requirements)
+    - [Todo Lists](#Todo)
+    - [Footnotes](#Footnotes)
+<!-- /TOC -->
+
+## Requirements
+### Prerequisites - Code
+- Python 3
+    - 
+    - 
+    - 
+    - 
+
+## Todo
+### Overiew
+- [ ] Use a git-repo as the package holder.
+- [ ] Create dependencies file that includes the packages.
+- [ ] Create dependencies folder that stores the packages locally.
+- [ ] Create Database for storing Packages.
+- [ ] Check for updates on packages and app.
+- [ ] Some kind of version control , preferably semver.
+
+## Footnotes
+### Built With
+
+* [Visual Studio Code](https://code.visualstudio.com/) - IDE used
+
+### Versioning
+
+I use [SemVer](http://semver.org/) for versioning. For the versions available.
+
+### Authors
+
+* [**Tariq Dinmohamed**](https://github.com/Flixis)
+
+See also the list of [contributors](https://github.com/Flixis/TEST-OK-Package-manager/contributors) who participated in this project.
+
+### Acknowledgments
+
+* Shoutout to StackOverFlow without you people this would have never happenend, yes that includes the bugs you may have created.
+
+
+
+
