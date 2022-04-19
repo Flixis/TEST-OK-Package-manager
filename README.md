@@ -25,6 +25,13 @@ TEST-OK package manager, automatically keep track and import functions for TEST-
 - [ ] Create Database for storing Packages.
 - [ ] Check for updates on packages and app.
 - [ ] Some kind of version control , preferably semver.
+- [ ] dependency_handler
+- [ ] import_handler
+- [ ] upload_handler
+- [ ] logger
+- [ ] main app
+
+
 
 ## Footnotes
 ### Built With
